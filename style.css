@@ -1,0 +1,17 @@
+.main-body{
+    font-family: 'Kanit', sans-serif;
+}
+span{
+    color:chocolate;
+}
+section{
+    display: flex;
+}
+.main-width{
+    width: 50%;
+    padding: 5%;
+}
+.main-width img{
+    width: 100%;
+    
+}
